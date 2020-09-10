@@ -1,4 +1,4 @@
-# image_downloader_from_url
+# Image downloader from url
 Node app to download image from url
 
 # build
